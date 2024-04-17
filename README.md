@@ -1,10 +1,6 @@
-### Hi there 👋
 
-**ShauryaRoy/ShauryaRoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on solar energy
+- 🔭 I’m currently working on One to One Student0-Teacher platform
 - 🌱 I’m currently learning THREEJS , EXPRESS
 - 👯 I’m looking to collaborate on NESTCODE
 - 🤔 I’m looking for help with THREEJS
@@ -14,4 +10,4 @@ Here are some ideas to get you started:
         insta - @shauryaroy.ai
         X - @sharpyshaurya17
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Capitalism is the only way an economy can grow.
+- ⚡ Fun fact: A man with Capilistic dreams
